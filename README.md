@@ -1,4 +1,4 @@
-# WP CSS STATS
+## WORD PAD CSS STATS
 
 A wordpress plugin to measure important CSS Stats using [Parker](https://github.com/katiefenn/parker).
 
